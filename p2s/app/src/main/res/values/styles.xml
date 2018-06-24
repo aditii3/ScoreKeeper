@@ -1,0 +1,37 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="TextViewScore">
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@color/fillGreen</item>
+        <item name="android:layout_margin">@dimen/dp5</item>
+        <item name="android:textSize">@dimen/sp28</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+     <style name="btn1">
+    <!--<style name="btn1">-->
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_margin">@dimen/dp5</item>
+        <item name="android:background">@drawable/play_button</item>
+        <item name="android:padding">@dimen/dp5</item>
+    </style>
+    <style name="btn2">
+        <item name="android:layout_margin">@dimen/dp5</item>
+        <item name="android:padding">@dimen/dp5</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:background">@drawable/play_button</item>
+    </style>
+    <style name="EditTextInput">
+        <item name="android:padding">@dimen/dp50</item>
+        <item name="android:layout_margin">@dimen/dp20</item>
+        <item name="android:background">@color/fillGray</item>
+    </style>
+
+</resources>

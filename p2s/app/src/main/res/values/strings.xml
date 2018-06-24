@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="update_score">%1$s \n\nScr %2$d \n\nFoul %3$d \nDwn %4$d \nxtra%5$d \nGoal %6$d</string>
+    <string name="touchdown">touchdown +6</string>
+    <string name="goal">field goal +3</string>
+    <string name="extra">Extra +1</string>
+    <string name="foul">foul</string>\
+    <string name="safety">safety +2</string>
+    <string name="reset">reset</string>
+</resources>

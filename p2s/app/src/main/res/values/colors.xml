@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="stroke">#815442</color>
+    <color name="fillYellow">#fffdc7</color>
+    <color name="fillBlue">#D6EAF8</color>
+    <color name="fillGreen">#90ba3e</color>
+    <color name="fillGray">#F8F9F9</color>
+    <color name="backdround_game">#F4F6F7</color>
+    <color name="fillDarkGray">#E6E6E6</color>
+</resources>
